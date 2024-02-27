@@ -1,0 +1,119 @@
+.main{
+    height: 370px;
+    width: 600px;
+    border: 1px solid black;
+    position: relative;
+    left: 30%;
+    margin-top: 10%;
+    background-color: rgb(255, 252, 247);
+}
+.img{
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/220px-Emblem_of_India.svg.png");
+    height: 50px;
+    width: 30px;
+    background-size: cover;
+   margin-left: 7%;
+   margin-top: 3%;
+  
+
+}
+
+section{
+    position: relative;
+    left: 40%;
+    bottom: 20%;
+  }
+#sec1{
+    max-width: fit-content;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#sec2{
+    position: relative;
+    bottom: 15px;
+    max-width: fit-content;
+    padding-left: 30px;
+    padding-right: 30px;
+ }
+
+
+.profile{
+    
+    background-image: url("https://st3.depositphotos.com/15648834/17930/v/450/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg");
+    background-size: cover;
+    height: 120px;
+    width: 105px;
+    margin-left: 4%;
+    margin-bottom: 70px;
+    position: relative;
+    bottom: 70px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.content{
+    display: flex;
+    
+    
+}
+
+.sec-content{
+    margin-left: 30%;
+    position: absolute;
+    bottom: 30%;
+    left: 10%;
+}
+
+.footer{
+   position: absolute;
+   left: 40%;
+   bottom: 7%;
+}
+.sec-footer{
+    position: absolute;
+    left: 35%;
+    bottom: 0.1%;
+}
+
+#id{
+   position: relative;
+   bottom:8px;
+}
+#id2{
+    position: relative;
+   bottom:18px;
+}
+
+#id3{
+    position: relative;
+   bottom:29px;
+}
+#id4{
+    position: relative;
+   bottom:40px;
+}
+
+.footer h3{
+    position: relative;
+   top:15px;
+}
+
+.footer p{
+    position: relative;
+   bottom:4px;
+}
+
+.sec-footer{
+    position: relative;
+    bottom: 50px;
+}
+.qr{
+    background-image: url("https://www.imgonline.com.ua/examples/qr-code.png");
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+    position: absolute;
+    left: 85%;
+    bottom: 3%;
+}
